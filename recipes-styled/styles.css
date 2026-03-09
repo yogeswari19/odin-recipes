@@ -1,0 +1,55 @@
+.recipe-steps {
+ background-color: #fdf6ec;
+ font-family: sans-serif;
+}
+
+h1,h2,p,hr.solid {
+    margin-left: 30px
+}
+
+h1 {
+    text-align: center;
+    font-family: serif;
+  
+}
+
+h2 {
+    color: #c0392b;
+   
+}
+
+h6 {
+    text-align: center;
+}
+
+
+a {
+    color: #c0392b;
+    font-weight: 600;
+}
+
+li {
+    line-height: 1.5;
+}
+
+#tagline {
+    color: grey;
+    font-style: italic;
+}
+
+.highlight {
+    font-weight: bold;
+}
+
+hr.solid {
+  border-top: 2px solid #bbb; /* Sets thickness, style, and color */
+  /* Add other styles as needed, such as width and margin */
+ 
+}
+
+.img-cl {
+    display: block;
+  margin: auto;
+  width: 30%;     
+}
+

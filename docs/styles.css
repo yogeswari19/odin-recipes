@@ -1,0 +1,23 @@
+/* styles */
+
+h1 {
+  background-color:#ff000080;
+  text-align: center;
+  /* font-family:ui-monospace; */
+}
+
+body {
+    background-color: burlywood;
+    
+}
+
+li {
+    font-family: cursive;
+}
+
+body.recipe-steps h1,h2,p{
+    font-family: cursive;
+
+}
+
+

@@ -1,0 +1,1 @@
+This project was done to implement my basic knowledge of HTML that I'm learning from Theodinproject. This simple HTML page was developed to contain links to various recepes. 
